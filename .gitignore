@@ -1,0 +1,11 @@
+# Arquivos compilados
+*.class
+bin/
+
+# Configurações de IDE
+.vscode/
+.settings/
+
+# Arquivos temporários
+*.log
+*.tmp
