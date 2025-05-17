@@ -29,18 +29,17 @@ try, catch, finally, throw e throws
 🔸 Programação Orientada a Objetos
 Herança (extends)
 
-Polimorfismo
+🔹Polimorfismo
 
-Interfaces (implements)
+🔹Interfaces (implements)
 
-Classes abstratas (abstract)
+🔹Classes abstratas (abstract)
 
-Encapsulamento (getters e setters)
+🔹Encapsulamento (getters e setters)
 
-🔹 Outros Conceitos
-System.out.println() - Saída no console
+🔹  System.out.println() - Saída no console
 
-Operadores (+, -, *, /, %, ==, !=, >, <, &&, etc.)
+🔹Operadores (+, -, *, /, %, ==, !=, >, <, &&, etc.)
 
 🔹 IDE ECLIPSE
 🔹 Diagrama [🔗 Clique aqui](https://github.com/silvialibras/dio-java-basico/blob/main/iphone-desafio/Diagrama%20-%20UML.png)
