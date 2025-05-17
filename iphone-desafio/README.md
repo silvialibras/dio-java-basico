@@ -1,7 +1,6 @@
- # iPhone - Diagramação UML - POO  - 
- Este desafio foi desenvolvido como parte do estudo do Curso Java Basico.
- 
- 🔹Projeto Java que simula as principais funcionalidades de um iPhone, implementando:
+## Modelando o iPhone com UML - POO
+
+Projeto Java que simula as principais funcionalidades de um iPhone, implementando as funções:
 - Reprodutor Musical
 - Aparelho Telefônico
 - Navegador na Internet
